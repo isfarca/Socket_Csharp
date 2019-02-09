@@ -1,0 +1,10 @@
+C:\Users\Fethi.Isfarca\Desktop\Client_Socket\Client_Socket\bin\Debug\Client_Socket.exe.config
+C:\Users\Fethi.Isfarca\Desktop\Client_Socket\Client_Socket\bin\Debug\Client_Socket.exe
+C:\Users\Fethi.Isfarca\Desktop\Client_Socket\Client_Socket\bin\Debug\Client_Socket.pdb
+C:\Users\Fethi.Isfarca\Desktop\Client_Socket\Client_Socket\obj\Debug\Client_Socket.csprojAssemblyReference.cache
+C:\Users\Fethi.Isfarca\Desktop\Client_Socket\Client_Socket\obj\Debug\Client_Socket.FormClient.resources
+C:\Users\Fethi.Isfarca\Desktop\Client_Socket\Client_Socket\obj\Debug\Client_Socket.Properties.Resources.resources
+C:\Users\Fethi.Isfarca\Desktop\Client_Socket\Client_Socket\obj\Debug\Client_Socket.csproj.GenerateResource.cache
+C:\Users\Fethi.Isfarca\Desktop\Client_Socket\Client_Socket\obj\Debug\Client_Socket.csproj.CoreCompileInputs.cache
+C:\Users\Fethi.Isfarca\Desktop\Client_Socket\Client_Socket\obj\Debug\Client_Socket.exe
+C:\Users\Fethi.Isfarca\Desktop\Client_Socket\Client_Socket\obj\Debug\Client_Socket.pdb

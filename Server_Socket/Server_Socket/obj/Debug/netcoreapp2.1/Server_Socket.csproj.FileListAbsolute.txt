@@ -1,0 +1,11 @@
+C:\Users\Fethi.Isfarca\Desktop\Server_Socket\Server_Socket\bin\Debug\netcoreapp2.1\Server_Socket.deps.json
+C:\Users\Fethi.Isfarca\Desktop\Server_Socket\Server_Socket\bin\Debug\netcoreapp2.1\Server_Socket.runtimeconfig.json
+C:\Users\Fethi.Isfarca\Desktop\Server_Socket\Server_Socket\bin\Debug\netcoreapp2.1\Server_Socket.runtimeconfig.dev.json
+C:\Users\Fethi.Isfarca\Desktop\Server_Socket\Server_Socket\bin\Debug\netcoreapp2.1\Server_Socket.dll
+C:\Users\Fethi.Isfarca\Desktop\Server_Socket\Server_Socket\bin\Debug\netcoreapp2.1\Server_Socket.pdb
+C:\Users\Fethi.Isfarca\Desktop\Server_Socket\Server_Socket\obj\Debug\netcoreapp2.1\Server_Socket.csprojAssemblyReference.cache
+C:\Users\Fethi.Isfarca\Desktop\Server_Socket\Server_Socket\obj\Debug\netcoreapp2.1\Server_Socket.csproj.CoreCompileInputs.cache
+C:\Users\Fethi.Isfarca\Desktop\Server_Socket\Server_Socket\obj\Debug\netcoreapp2.1\Server_Socket.AssemblyInfoInputs.cache
+C:\Users\Fethi.Isfarca\Desktop\Server_Socket\Server_Socket\obj\Debug\netcoreapp2.1\Server_Socket.AssemblyInfo.cs
+C:\Users\Fethi.Isfarca\Desktop\Server_Socket\Server_Socket\obj\Debug\netcoreapp2.1\Server_Socket.dll
+C:\Users\Fethi.Isfarca\Desktop\Server_Socket\Server_Socket\obj\Debug\netcoreapp2.1\Server_Socket.pdb
